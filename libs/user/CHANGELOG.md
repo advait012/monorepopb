@@ -1,5 +1,11 @@
 # @monorepopb/user
 
+## 1.2.2
+
+### Patch Changes
+
+- testing automatic dependency
+
 ## 1.2.1
 
 ### Patch Changes
