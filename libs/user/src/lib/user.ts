@@ -1,4 +1,5 @@
 const firstName = "testing";
-const lastName = "publish"
+const lastName = "publish";
+const middleName = "none";
 
-export {firstName, lastName};
+export {firstName, lastName, middleName };
