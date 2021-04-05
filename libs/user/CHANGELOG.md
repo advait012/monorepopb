@@ -1,5 +1,11 @@
 # @monorepopb/user
 
+## 1.3.0
+
+### Minor Changes
+
+- testing minor dependency
+
 ## 1.2.2
 
 ### Patch Changes
