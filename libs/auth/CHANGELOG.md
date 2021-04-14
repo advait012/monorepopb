@@ -1,5 +1,12 @@
 # @monorepopb/auth
 
+## 1.1.4
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @monorepopb/user@1.4.1
+
 ## 1.1.3
 
 ### Patch Changes
